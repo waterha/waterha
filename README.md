@@ -1,5 +1,6 @@
 ## Hi, I'm WaterHa.
 
+- journey: [CSDN](https://blog.csdn.net/qq_36106686) -> 正在学习架构思维
 - links: [Blog](https://blog.csdn.net/qq_36106686) · [Email](mailto:2982607287@qq.com)
 - I'm currently learning **architecture thinking** and writing notes along the way.
 - Motto: **“自强不息，学海无涯”**
