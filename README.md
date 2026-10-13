@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=自强不息，学海无涯;正在学习架构思维...)](https://git.io/typing-svg)
 
 
-- 🌱 正在学习：**架构思维**
-
 <p align="center">
   <a href="https://blog.csdn.net/qq_36106686">
     <img src="https://img.shields.io/badge/CSDN-WaterHa-FF6C00?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" />
@@ -17,5 +15,5 @@
 ---
 
 <p align="center">
-  <i>“自强不息，学海无涯”</i>
+  <i>“世界，你好”</i>
 </p>
