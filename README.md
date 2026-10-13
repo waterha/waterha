@@ -1,4 +1,4 @@
-## Hi there, I'm WaterHa 👋
+## Hi , I'm WaterHa.👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=420&size=16&lines=自强不息，学海无涯;正在学习架构思维...)](https://git.io/typing-svg)
 
