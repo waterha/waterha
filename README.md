@@ -5,29 +5,14 @@
 ## 🧑‍💻 About Me
 
 - 🌱 正在学习：**架构思维**
-- 📝 CSDN：[WaterHa 的博客](https://blog.csdn.net/qq_36106686?spm=1000.2115.3001.5343)
-- 📫 邮箱：[2982607287@qq.com](mailto:2982607287@qq.com)
-
-## 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,docker,kubernetes,mysql,redis,kafka,git&theme=dark&perline=8" />
+  <a href="https://blog.csdn.net/qq_36106686">
+    <img src="https://img.shields.io/badge/CSDN-WaterHa-FF6C00?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" />
   </a>
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaterHa&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaterHa&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=WaterHa&theme=radical&hide_border=true" />
+  <a href="mailto:2982607287@qq.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
